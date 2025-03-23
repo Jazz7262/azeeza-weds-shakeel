@@ -74,7 +74,7 @@ function Timeline() {
                                   07<sup>th</sup> Shawwal-ul-Mukarram, 1446
                                   Hijri,
                                   <br />
-                                  Time: 01:45 PM.
+                                  Time: 12:45 PM.
                               </p>
 
                               <h2>Venue:</h2>
